@@ -1,0 +1,8 @@
+{
+  "modelVersion": "5.0.0",
+  "description": "Roboyard for HarmonyOS phones: the puzzle game with its 140 built-in levels.",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}

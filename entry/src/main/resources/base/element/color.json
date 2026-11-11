@@ -1,0 +1,10 @@
+{
+  "color": [
+    { "name": "start_window_background", "value": "#1A1A2E" },
+    { "name": "background_dark", "value": "#1A1A2E" },
+    { "name": "background_light", "value": "#16213E" },
+    { "name": "color_primary", "value": "#1976D2" },
+    { "name": "color_accent", "value": "#4CAF50" },
+    { "name": "grid_line", "value": "#4AE600" }
+  ]
+}

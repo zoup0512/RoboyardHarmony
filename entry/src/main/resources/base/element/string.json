@@ -1,0 +1,22 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "Roboyard puzzle game" },
+    { "name": "EntryAbility_desc", "value": "Roboyard puzzle game with 140 levels" },
+    { "name": "EntryAbility_label", "value": "Roboyard" },
+    { "name": "level_selection_title", "value": "Level Selection" },
+    { "name": "level_progress", "value": "%d / %d Level completed" },
+    { "name": "level_locked", "value": "You need %d more stars to unlock this level" },
+    { "name": "level_id_text", "value": "Level %d" },
+    { "name": "moves_text", "value": "Moves: %d" },
+    { "name": "optimal_moves", "value": "Optimal: %d moves" },
+    { "name": "level_complete", "value": "Level Complete!" },
+    { "name": "level_stars_description", "value": "You earned %d stars" },
+    { "name": "button_back_game", "value": "◂ Back" },
+    { "name": "button_reset", "value": "Reset" },
+    { "name": "button_menu", "value": "Menu" },
+    { "name": "next_level", "value": "Next Level" },
+    { "name": "level_not_unlocked", "value": "You need %d more star(s) to unlock" },
+    { "name": "last_level_message", "value": "This is the last level." },
+    { "name": "level_load_error", "value": "Could not load level %d" }
+  ]
+}

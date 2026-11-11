@@ -1,0 +1,56 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\vyron\\.ohos\\config\\default_RoboyardHarmony_z6raLNIYx5_ClJxypR4EDR44mYdqZBVF349CwCAMYqg=.cer",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001B5A20CC7576214AC9ED7D2D44A1A6BCC467C407B7D313E4A5D8995B2C87F97695AF5A643DA30E81",
+          "profile": "C:\\Users\\vyron\\.ohos\\config\\default_RoboyardHarmony_z6raLNIYx5_ClJxypR4EDR44mYdqZBVF349CwCAMYqg=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\vyron\\.ohos\\config\\default_RoboyardHarmony_z6raLNIYx5_ClJxypR4EDR44mYdqZBVF349CwCAMYqg=.p12",
+          "storePassword": "0000001BE8E77571CEC079FDC7B2405C79C4FA1C9A347036730693140EE7DD2ED6C4563C6A6C29F9077A0E"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "5.0.0(12)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        },
+        "targetSdkVersion": "26.0.0"
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug"
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

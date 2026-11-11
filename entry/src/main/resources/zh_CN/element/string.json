@@ -1,0 +1,22 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "Roboyard 益智游戏" },
+    { "name": "EntryAbility_desc", "value": "Roboyard 益智游戏，共 140 关" },
+    { "name": "EntryAbility_label", "value": "Roboyard" },
+    { "name": "level_selection_title", "value": "关卡选择" },
+    { "name": "level_progress", "value": "已完成 %d / %d 关" },
+    { "name": "level_locked", "value": "你需要再获得 %d 颗星来解锁此关卡" },
+    { "name": "level_id_text", "value": "关卡 %d" },
+    { "name": "moves_text", "value": "步数: %d" },
+    { "name": "optimal_moves", "value": "最优: %d 步" },
+    { "name": "level_complete", "value": "关卡完成！" },
+    { "name": "level_stars_description", "value": "你获得了 %d 颗星" },
+    { "name": "button_back_game", "value": "◂ 返回" },
+    { "name": "button_reset", "value": "重置" },
+    { "name": "button_menu", "value": "菜单" },
+    { "name": "next_level", "value": "下一关" },
+    { "name": "level_not_unlocked", "value": "你需要 %d 颗星星才能解锁" },
+    { "name": "last_level_message", "value": "这是最后一关。" },
+    { "name": "level_load_error", "value": "无法加载关卡 %d" }
+  ]
+}
